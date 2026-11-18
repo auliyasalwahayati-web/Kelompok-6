@@ -1,1 +1,1 @@
-# Kelompok-6
+# mpox-skin-lesion-classification-kelompok 6
