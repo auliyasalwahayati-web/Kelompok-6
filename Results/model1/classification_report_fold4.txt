@@ -1,0 +1,12 @@
+              precision    recall  f1-score   support
+
+  Chickenpox     0.0000    0.0000    0.0000         9
+      Cowpox     0.0000    0.0000    0.0000        13
+        HFMD     0.3810    0.5333    0.4444        15
+     Healthy     0.3750    0.3333    0.3529         9
+     Measles     0.0000    0.0000    0.0000         8
+   Monkeypox     0.4038    0.7778    0.5316        27
+
+    accuracy                         0.3951        81
+   macro avg     0.1933    0.2741    0.2215        81
+weighted avg     0.2468    0.3951    0.2987        81
